@@ -4,7 +4,8 @@
 📊 Data Analyst | 🤖 Machine Learning | 📈 Power BI | 🧮 SQL | 🐍 Python  
 📍 United States
 
-I build end-to-end analytics and machine learning solutions using Python, SQL, and Power BI.
+I build end-to-end analytics and machine learning solutions — from data cleaning and SQL pipelines to ML models, dashboards, and actionable business insights.
+
 
 ---
 
