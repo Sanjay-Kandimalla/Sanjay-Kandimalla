@@ -6,8 +6,14 @@
 
 I build end-to-end analytics and machine learning solutions — from data cleaning and SQL pipelines to ML models, dashboards, and actionable business insights.
 
-
 ---
+
+## 🔭 Currently Working On
+- Enhancing ML & NLP pipelines for resume screening
+- Building interactive Power BI dashboards for real-world datasets
+- Expanding my project portfolio with large-scale analytics use cases
+
+---  
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL, R  
@@ -32,6 +38,13 @@ I build end-to-end analytics and machine learning solutions — from data cleani
 - Built interactive dashboards with KPIs and filters
 
 👉 https://github.com/Sanjay-Kandimalla/netflix-content-analysis-powerbi
+
+---
+
+## 🤝 Open To
+- Data Analyst / Business Intelligence roles  
+- Machine Learning / Applied Data Science roles  
+- Analytics & ML project collaborations  
 
 ---
 
