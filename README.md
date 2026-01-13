@@ -9,6 +9,14 @@ I build end-to-end analytics and machine learning solutions — from data cleani
 
 ---
 
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, R  
+- **Analytics & BI:** Power BI (DAX), Excel, SQL  
+- **Machine Learning:** Scikit-learn, NLP (TF-IDF, BERT)  
+- **Tools:** Git, GitHub, Streamlit, Jupyter Notebook
+
+---
+
 ## ⭐ Featured Projects
 
 ### 🔹 AI-Powered Resume Screening System
@@ -27,14 +35,9 @@ I build end-to-end analytics and machine learning solutions — from data cleani
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, SQL, R  
-- **Analytics & BI:** Power BI (DAX), Excel, SQL  
-- **Machine Learning:** Scikit-learn, NLP (TF-IDF, BERT)  
-- **Tools:** Git, GitHub, Streamlit, Jupyter Notebook
-
----
-
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/sanjay-kandimalla/
 - Email: sanjay.kandimalla2025@gmail.com
+
+---
+⭐ More projects will be added as I continue building analytics and ML solutions.
