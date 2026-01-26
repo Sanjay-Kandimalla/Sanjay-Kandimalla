@@ -44,7 +44,8 @@ I build end-to-end analytics and machine learning solutions — from data cleani
 ### 🔹 Emergency 911 Call Demand Forecasting (Time Series)
 - Forecasted emergency call volumes using time series analysis (SARIMA)
 - Identified trends and seasonality to support public safety resource planning
-- Visualized historical vs. forecasted demand for operational insights  
+- Visualized historical vs. forecasted demand for operational insights
+
 👉 https://github.com/Sanjay-Kandimalla/emergency-911-demand-forecasting
 
 ---
