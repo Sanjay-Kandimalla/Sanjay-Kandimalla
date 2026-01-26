@@ -4,21 +4,21 @@
 📊 Data Analyst | 🤖 Machine Learning | 📈 Power BI | 🧮 SQL | 🐍 Python  
 📍 United States
 
-I build end-to-end analytics and machine learning solutions — from data cleaning and SQL pipelines to ML models, dashboards, and actionable business insights.
+I build end-to-end analytics and machine learning solutions — from data cleaning and SQL pipelines to statistical modeling, ML systems, dashboards, and actionable business insights.
 
 ---
 
 ## 🔭 Currently Working On
-- Enhancing ML & NLP pipelines for resume screening
+- Enhancing ML & NLP pipelines for resume screening and ranking systems
 - Building interactive Power BI dashboards for real-world datasets
-- Expanding my project portfolio with large-scale analytics use cases
+- Expanding my portfolio with time series forecasting and large-scale analytics use cases
 
 ---  
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL, R  
 - **Analytics & BI:** Power BI (DAX), Excel, SQL  
-- **Machine Learning:** Scikit-learn, NLP (TF-IDF, BERT)  
+- **Machine Learning & Statistics:** Scikit-learn, Time Series Analysis (SARIMA), NLP (TF-IDF, BERT)  
 - **Tools:** Git, GitHub, Streamlit, Jupyter Notebook
 
 ---
@@ -27,7 +27,7 @@ I build end-to-end analytics and machine learning solutions — from data cleani
 
 ### 🔹 AI-Powered Resume Screening System
 - Built an ATS-style resume analyzer using ML & NLP
-- Developed a Streamlit app with skill-gap analysis and scoring
+- Developed a Streamlit web app with resume scoring and skill-gap analysis  
 
 👉 https://github.com/Sanjay-Kandimalla/ai-resume-screening-system
 
@@ -35,7 +35,7 @@ I build end-to-end analytics and machine learning solutions — from data cleani
 
 ### 🔹 Netflix Content Analysis Dashboard
 - Analyzed Netflix titles using SQL & Power BI
-- Built interactive dashboards with KPIs and filters
+- Built interactive dashboards with KPIs, filters, and global insights
 
 👉 https://github.com/Sanjay-Kandimalla/netflix-content-analysis-powerbi
 
