@@ -1,65 +1,27 @@
-# Hi, I’m Sanjay Kandimalla 👋
+Hi, I’m Sanjay.
 
-🎓 MS in Applied Statistics & Data Science @ University of Texas at Arlington  
-📊 Data Analyst | 🤖 Machine Learning | 📈 Power BI | 🧮 SQL | 🐍 Python  
-📍 United States
+I’m an applied data analyst and early-career data scientist interested in working with real datasets and understanding how data can support decisions.
 
-I build end-to-end analytics and machine learning solutions — from data cleaning and SQL pipelines to statistical modeling, ML systems, dashboards, and actionable business insights.
+Most of my work focuses on:
+- cleaning and validating messy data
+- exploratory analysis and pattern discovery
+- building interpretable models when they add value
+- communicating results through dashboards or simple tools
 
----
+I primarily work with SQL, Python, and Power BI, and I enjoy projects that sit at the intersection of analytics and practical machine learning.
 
-## 🔭 Currently Working On
-- Enhancing ML & NLP pipelines for resume screening and ranking systems
-- Building interactive Power BI dashboards for real-world datasets
-- Expanding my portfolio with time series forecasting and large-scale analytics use cases
+### Selected Projects
 
----  
+**Resume–Job Matching (NLP, Python)**  
+An exploratory project comparing keyword-based and embedding-based text similarity approaches for resume screening. The focus was on understanding trade-offs between simple heuristics and machine-learning methods, rather than building a production hiring system.  
+→ https://github.com/Sanjay-Kandimalla/ai-resume-screening-system
 
-## 🛠️ Tech Stack
-- **Languages:** Python, SQL, R  
-- **Analytics & BI:** Power BI (DAX), Excel, SQL  
-- **Machine Learning & Statistics:** Scikit-learn, Time Series Analysis (SARIMA), NLP (TF-IDF, BERT)  
-- **Tools:** Git, GitHub, Streamlit, Jupyter Notebook
+**Netflix Content Analysis (SQL, Power BI)**  
+Analyzed Netflix’s movies and TV shows catalog to explore content growth, genre mix, and regional distribution. Built interactive Power BI dashboards to make trends easy to interpret.  
+→ https://github.com/Sanjay-Kandimalla/netflix-content-analysis-powerbi
 
----
+**911 Call Volume Forecasting (Time Series)**  
+Built a time-series forecasting project to understand patterns in daily emergency call demand. Emphasized baseline comparisons and forecast stability over best-case accuracy.  
+→ https://github.com/Sanjay-Kandimalla/emergency-911-demand-forecasting
 
-## ⭐ Featured Projects
-
-### 🔹 AI-Powered Resume Screening System
-- Built an ATS-style resume analyzer using ML & NLP
-- Developed a Streamlit web app with resume scoring and skill-gap analysis  
-
-👉 https://github.com/Sanjay-Kandimalla/ai-resume-screening-system
-
----
-
-### 🔹 Netflix Content Analysis Dashboard
-- Analyzed Netflix titles using SQL & Power BI
-- Built interactive dashboards with KPIs, filters, and global insights
-
-👉 https://github.com/Sanjay-Kandimalla/netflix-content-analysis-powerbi
-
----
-
-### 🔹 Emergency 911 Call Demand Forecasting (Time Series)
-- Forecasted emergency call volumes using time series analysis (SARIMA)
-- Identified trends and seasonality to support public safety resource planning
-- Visualized historical vs. forecasted demand for operational insights
-
-👉 https://github.com/Sanjay-Kandimalla/emergency-911-demand-forecasting
-
----
-
-## 🤝 Open To
-- Data Analyst / Business Intelligence roles  
-- Machine Learning / Applied Data Science roles  
-- Analytics & ML project collaborations  
-
----
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/sanjay-kandimalla/
-- Email: sanjay.kandimalla2025@gmail.com
-
----
-⭐ More projects will be added as I continue building analytics and machine learning solutions.
+I’m currently pursuing an MS in Applied Statistics & Data Science at the University of Texas at Arlington.
