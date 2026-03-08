@@ -1,4 +1,4 @@
-# Sanjay Kandimalla
+I am Sanjay Kandimalla
 
 I just finished my MS in Applied Statistics & Data Science at UT Arlington (Dec 2025) 
 and I'm actively looking for full-time data analyst or data scientist roles.
