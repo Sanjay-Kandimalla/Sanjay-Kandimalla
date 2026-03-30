@@ -23,8 +23,8 @@ going from raw data all the way to a finished output.
 
 **Resume screener (NLP + Streamlit)**  
 Compared keyword matching vs. BERT embeddings for ranking candidates against job 
-descriptions. Deployed as a live Streamlit app — generates PDF reports in under 5 seconds, usable by non-technical recruiters.
-
+descriptions. Deployed as a live Streamlit app — generates PDF reports in 
+under 5 seconds, usable by non-technical recruiters.
 → [github.com/Sanjay-Kandimalla/ai-resume-screening-system](https://github.com/Sanjay-Kandimalla/ai-resume-screening-system)
 
 **Netflix content dashboard (SQL + Power BI)**  
