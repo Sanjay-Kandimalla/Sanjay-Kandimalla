@@ -30,7 +30,7 @@ as a live Streamlit app with a 4-page Power BI dashboard.
 Compared keyword matching vs. BERT embeddings for ranking candidates against job 
 descriptions. Deployed as a live Streamlit app — generates PDF reports in under 5 
 seconds, usable by non-technical recruiters.  
-→ [github.com/Sanjay-Kandimalla/ai-resume-screening-system](https://github.com/Sanjay-Kandimalla/ai-resume-screening-system)
+→ [github.com/Sanjay-Kandimalla/ai-resume-screening-system](https://github.com/Sanjay-Kandimalla/ai-resume-screening-system) · [Live App](https://ai-resume-screening-system-gkt2jxevz6y5whvhmea457.streamlit.app/)
 
 **Netflix content dashboard (SQL + Power BI)**  
 Cleaned and analyzed 8,800+ titles, then built an interactive dashboard showing 
