@@ -11,7 +11,7 @@ I work mainly in SQL, Python, and Power BI. I've built RAG pipelines, ML models,
 
 ### Featured Project
 
-**🎯 RAG Job Search Agent** — AI-powered job matching using Retrieval-Augmented Generation
+** RAG Job Search Agent** — AI-powered job matching using Retrieval-Augmented Generation
 Built a full RAG pipeline: Sentence-BERT embeddings → ChromaDB vector store → Claude LLM for match scoring, skill gap analysis, and tailored cover letter generation. Upload a resume, search or upload job postings, and get AI-powered match scores with plain-English explanations of fit. Deployed as a live Streamlit app with Docker support and CI/CD.
 
 Tech: Python · LangChain · Sentence-BERT · ChromaDB · Anthropic Claude · Streamlit · Docker · GitHub Actions
