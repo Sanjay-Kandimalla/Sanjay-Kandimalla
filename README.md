@@ -24,7 +24,7 @@ Tech: Python · LangChain · Sentence-BERT · ChromaDB · Anthropic Claude · St
 
 **Traffic Stop Search Analysis** — Random Forest + SHAP + Power BI + Streamlit
 Predicted vehicle search likelihood on 2.1M real traffic stops — ROC-AUC 0.875 on a 13.5:1 imbalanced dataset. SHAP explainability surfaced top drivers. Fairness audit found Hispanic and Black drivers searched at 1.65x and 1.57x the rate of White drivers. Deployed as a live Streamlit app with a 4-page Power BI dashboard.
-→ [GitHub](https://github.com/Sanjay-Kandimalla/traffic-stop-analysis) · [Live App](https://traffic-stop-search-analysis.streamlit.app)
+→ [GitHub](https://github.com/Sanjay-Kandimalla/traffic-stop-analysis) · [Live App](https://sanjay-kandimalla-traffic-stop-analysis-appstreamlit-app-vlv1qb.streamlit.app/)
 
 **AI Resume Screener** — NLP + BERT + Streamlit
 Compared keyword matching vs. BERT embeddings for ranking candidates against job descriptions. Generates PDF reports in under 5 seconds, usable by non-technical recruiters.
