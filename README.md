@@ -28,7 +28,7 @@ Predicted vehicle search likelihood on 2.1M real traffic stops — ROC-AUC 0.875
 
 **AI Resume Screener** — NLP + BERT + Streamlit
 Compared keyword matching vs. BERT embeddings for ranking candidates against job descriptions. Generates PDF reports in under 5 seconds, usable by non-technical recruiters.
-→ [GitHub](https://github.com/Sanjay-Kandimalla/ai-resume-screening-system) · [Live App](https://ai-resume-screening.streamlit.app)
+→ [GitHub](https://github.com/Sanjay-Kandimalla/ai-resume-screening-system) · [Live App](https://ai-resume-screening-system-gkt2jxevz6y5whvhmea457.streamlit.app/)
 
 **911 Call Volume Forecasting** — SARIMA + Python
 Forecasted daily emergency call volume from multi-year data to support shift-based staffing decisions. Found Friday volume runs 18–22% above Monday baseline.
