@@ -16,7 +16,7 @@ Built a full RAG pipeline: Sentence-BERT embeddings → ChromaDB vector store �
 
 Tech: Python · LangChain · Sentence-BERT · ChromaDB · Anthropic Claude · Streamlit · Docker · GitHub Actions
 
-→ [github.com/Sanjay-Kandimalla/rag-job-search-agent](https://github.com/Sanjay-Kandimalla/rag-job-search-agent) · [Live App](https://sanjay-rag-job-agent.streamlit.app)
+→ [github.com/Sanjay-Kandimalla/rag-job-search-agent](https://github.com/Sanjay-Kandimalla/rag-job-search-agent) · [Live App](https://rag-job-search-agent-6n5abkmuemkjkfrwdydjrz.streamlit.app/)
 
 ---
 
