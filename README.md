@@ -1,7 +1,6 @@
 # Sanjay Kandimalla
 
-MS Applied Statistics & Data Science — UT Arlington (3.9 GPA, Dec 2025)
-Actively looking for full-time data analyst or data scientist roles. OPT available through Jan 2029. Arlington, TX.
+
 
 I got into data because I genuinely like figuring out what's actually going on in a dataset — not just running models, but understanding why the numbers look the way they do. Most of my projects start with messy, real-world data and end with something a non-technical person can actually use — a dashboard, a deployed app, or a clear summary of what the data is saying.
 
